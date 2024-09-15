@@ -1,0 +1,42 @@
+{
+    "input": {
+        "filtre": "7",
+        "idStructure": "8",
+        "libelleStructure": "9",
+        "idDRH": "10",
+        "idHierarchie": "11",
+        "page": "12"
+    },
+    "context": {
+        "status": "14"
+    },
+    "nbPage": "15",
+    "finHierarchie": "16",
+    "libelleNiveau": "1",
+    "nbPath": "1",
+    "path": [
+        {
+            "libelle": "1",
+            "id": "1",
+            "type": "1"
+        }
+    ],
+    "nbChildren": "1",
+    "nivAdhMin": "23",
+    "children": [
+        {
+            "domaine": "24",
+            "idStructure": "25",
+            "libelleStructure": "1",
+            "libelleCompagnie": "1",
+            "idCompagnie": "1",
+            "idConvention": "1",
+            "idContrat": "1",
+            "type": "31",
+            "assisteur": "32",
+            "psy": "33",
+            "franchise": "34",
+            "salaire": "35"
+        }
+    ]
+}

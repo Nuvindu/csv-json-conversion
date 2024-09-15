@@ -1,0 +1,29 @@
+[
+    "context.codTrt",
+    "context.login",
+    "context.password",
+    "context.session",
+    "context.jeton",
+    "superUser",
+    "context.status",
+    "nbDecomptes",
+    {
+        "name": "decomptes",
+        "size": "nbDecomptes",
+        "definitions": [
+            "steCod",
+            "adhtNum",
+            "saisieDat",
+            "utilNum",
+            "decompteNumOrd",
+            "decompteNumOrd002",
+            "dateReglement",
+            "paravMt",
+            "monaie",
+            "chequeRib",
+            "domicBanque",
+            "codeMonaieOriginale",
+            "libelleTiers"
+        ]
+    }
+]

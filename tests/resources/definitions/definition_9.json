@@ -1,0 +1,49 @@
+[
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "input.filtre",
+    "input.idStructure",
+    "input.libelleStructure",
+    "input.idDRH",
+    "input.idHierarchie",
+    "input.page",
+    "",
+    "context.status",
+    "nbPage",
+    "finHierarchie",
+    "libelleNiveau",
+    "nbPath",
+    {
+        "name": "path",
+        "size": "nbPath",
+        "definitions": [
+            "libelle",
+            "id",
+            "type"
+        ]
+    },
+    "nbChildren",
+    "nivAdhMin",
+    {
+        "name": "children",
+        "size": "nbChildren",
+        "definitions": [
+            "domaine",
+            "idStructure",
+            "libelleStructure",
+            "libelleCompagnie",
+            "idCompagnie",
+            "idConvention",
+            "idContrat",
+            "type",
+            "assisteur",
+            "psy",
+            "franchise",
+            "salaire"
+        ]
+    }
+]

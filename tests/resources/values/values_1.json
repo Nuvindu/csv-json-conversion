@@ -1,0 +1,12 @@
+{
+    "context": {
+        "status": "8"
+    },
+    "right": {
+        "rub": "9",
+        "actRubFm": "10",
+        "actRubPrev": "11",
+        "actRubRet": "12",
+        "zonServFm": "13"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "context": {
+        "status": "1"
+    },
+    "nbDecompte": "1",
+    "decompte": [
+        {
+            "prenom": "1",
+            "codeActeVerspieren": "16",
+            "dateSoins": "17",
+            "montantRemboursement": "18",
+            "montantRemboursementObligatoire": "19",
+            "montantRemboursementAutreMutuelle": "20",
+            "montantRemboursementComplementaire": "21",
+            "codeMonnaie": "22",
+            "codeInstance": "23",
+            "libelleSVI": "24"
+        }
+    ]
+}

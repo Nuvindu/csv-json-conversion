@@ -1,0 +1,22 @@
+{
+    "context": {
+        "status": "11"
+    },
+    "nbPage": "12",
+    "nbLigne": "1",
+    "topCarteTiersPayant": "14",
+    "beneficiaires": [
+        {
+            "qualite": "15",
+            "nom": "16",
+            "prenom": "17",
+            "numeroInsee": "18",
+            "dateNaissance": "19",
+            "teletransmission": "20",
+            "dateImpressionCarteTiersPayant": "21",
+            "typeEnvoi": "22",
+            "identifiantCommentaire": "23",
+            "typeCarte": "24"
+        }
+    ]
+}

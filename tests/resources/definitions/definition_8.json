@@ -1,0 +1,26 @@
+[
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "input.structureId",
+    "input.libelleStructure",
+    "input.idContratRegime",
+    "filtreDomaine",
+    "",
+    "context.status",
+    "libelleStructure",
+    "domaine",
+    {
+        "name": "documents",
+        "size": 4,
+        "definitions": [
+            "libelle",
+            "nom",
+            "zone",
+            "typeDoc"
+        ]
+    }
+]

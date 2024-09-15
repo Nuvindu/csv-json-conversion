@@ -1,0 +1,32 @@
+[
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "context.status",
+    "nbPage",
+    "nbLigne",
+    "topCarteTiersPayant",
+    {
+        "name": "beneficiaires",
+        "size": "nbLigne",
+        "definitions": [
+            "qualite",
+            "nom",
+            "prenom",
+            "numeroInsee",
+            "dateNaissance",
+            "teletransmission",
+            "dateImpressionCarteTiersPayant",
+            "typeEnvoi",
+            "identifiantCommentaire",
+            "typeCarte"
+        ]
+    }
+]

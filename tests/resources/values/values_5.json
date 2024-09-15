@@ -1,0 +1,29 @@
+{
+    "context": {
+        "codTrt": "1",
+        "login": "2",
+        "password": "3",
+        "session": "4",
+        "jeton": "5",
+        "status": "7"
+    },
+    "superUser": "6",
+    "nbDecomptes": "1",
+    "decomptes": [
+        {
+            "steCod": "1",
+            "adhtNum": "1",
+            "saisieDat": "11",
+            "utilNum": "12",
+            "decompteNumOrd": "13",
+            "decompteNumOrd002": "14",
+            "dateReglement": "15",
+            "paravMt": "16",
+            "monaie": "17",
+            "chequeRib": "18",
+            "domicBanque": "19",
+            "codeMonaieOriginale": "20",
+            "libelleTiers": "21"
+        }
+    ]
+}

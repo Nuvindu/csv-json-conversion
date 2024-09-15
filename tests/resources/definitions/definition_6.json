@@ -1,0 +1,32 @@
+[
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "context.status",
+    "nbDecompte",
+    {
+        "name": "decompte",
+        "size": "nbDecompte",
+        "definitions": [
+            "prenom",
+            "codeActeVerspieren",
+            "dateSoins",
+            "montantRemboursement",
+            "montantRemboursementObligatoire",
+            "montantRemboursementAutreMutuelle",
+            "montantRemboursementComplementaire",
+            "codeMonnaie",
+            "codeInstance",
+            "libelleSVI"
+        ]
+    }
+]

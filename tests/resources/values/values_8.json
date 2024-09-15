@@ -1,0 +1,39 @@
+{
+    "input": {
+        "structureId": "7",
+        "libelleStructure": "8",
+        "idContratRegime": "9"
+    },
+    "filtreDomaine": "10",
+    "context": {
+        "status": "12"
+    },
+    "libelleStructure": "13",
+    "domaine": "14",
+    "documents": [
+        {
+            "libelle": "15",
+            "nom": "16",
+            "zone": "17",
+            "typeDoc": "18"
+        },
+        {
+            "libelle": "19",
+            "nom": "20",
+            "zone": "21",
+            "typeDoc": "22"
+        },
+        {
+            "libelle": "23",
+            "nom": "24",
+            "zone": "25",
+            "typeDoc": "26"
+        },
+        {
+            "libelle": "27",
+            "nom": "28",
+            "zone": "29",
+            "typeDoc": "30"
+        }
+    ]
+}
